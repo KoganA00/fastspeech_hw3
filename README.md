@@ -5,3 +5,6 @@ https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_1.
 
 * Вторая версия ноутбука (без логгироваия wandb, без vocoder)
 https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_2.ipynb
+
+* Третья версия (без логгирования) Есть vocoder прогон после обучения
+https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_3.ipynb
