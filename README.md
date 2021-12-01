@@ -1,10 +1,10 @@
 # fastspeech_hw3
 
-* Первая версия нотбука. (без логгирования wandb, без vocoder, просто обучение маленькой модельки, без переобучения, НЕ работает с cuda)
+* Первая версия нотбука. (без позиционного кодирования, без логгирования wandb, без vocoder, просто обучение маленькой модельки, без переобучения, НЕ работает с cuda)
 https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_1.ipynb 
 
-* Вторая версия ноутбука (без логгироваия wandb, без vocoder)
+* Вторая версия ноутбука (без позиционного кодирования, без логгироваия wandb, без vocoder)
 https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_2.ipynb
 
-* Третья версия (без логгирования) Есть vocoder прогон после обучения. Также я залила файл rec, содержащий в себе reconstructed_wav, если дорожка не отобразится в ноутбуке.
+* Третья версия (без позиционного кодирования, без логгирования) Есть vocoder прогон после обучения. Также я залила файл rec, содержащий в себе reconstructed_wav, если дорожка не отобразится в ноутбуке.
 https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_3.ipynb
