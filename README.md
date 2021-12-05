@@ -8,3 +8,7 @@ https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_2.
 
 * Третья версия (без позиционного кодирования, без логгирования) Есть vocoder прогон после обучения. Также я залила файл rec, содержащий в себе reconstructed_wav и саму полученную дорожку, на случай, если дорожка не отобразится в ноутбуке.
 https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_3.ipynb
+
+
+* Четвертая версия, почти финальная Есть vocoder прогон после обучения. Там используется загрузка модели-чекпоинта. Валидация не используется, поэтому кривая
+https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_4.ipynb
