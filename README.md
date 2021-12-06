@@ -18,4 +18,4 @@ https://github.com/KoganA00/fastspeech_hw3/blob/main/Kogan_fastSpeech_version_5.
 
 
 Папка на Гугл-диске с чекпоинтами и тестовыми аудио:
-https://drive.google.com/file/d/1siNquHcKSqo8LW8CPfgxsFAjiSdCmdvl/view?usp=sharing
+https://drive.google.com/drive/folders/16OjWRXtc7t9gcuP_qp0BaW2OpvhlviqW?usp=sharing
